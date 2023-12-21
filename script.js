@@ -1,4 +1,4 @@
-function clicar(){
+vaifunction clicar(){
 
     var idade = (new Date().getFullYear()) - Number(window.document.getElementById('anoatual').value)
     var sexo = window.document.getElementById('sex').value.toUpperCase().trim()
