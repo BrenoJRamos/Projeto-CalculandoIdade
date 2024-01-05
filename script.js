@@ -14,7 +14,7 @@ function clicar(){
         img.src = ''
     }
     else{
-        main.style.height = '550px'
+        main.style.height = '550px' 
         erro.innerHTML = ''
 
         if(sexo === 'MASCULINO'){
